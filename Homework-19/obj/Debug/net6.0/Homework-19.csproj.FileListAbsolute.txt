@@ -1,0 +1,15 @@
+C:\classwork\Homework-19\Homework-19\bin\Debug\net6.0\Homework-19.exe
+C:\classwork\Homework-19\Homework-19\bin\Debug\net6.0\Homework-19.deps.json
+C:\classwork\Homework-19\Homework-19\bin\Debug\net6.0\Homework-19.runtimeconfig.json
+C:\classwork\Homework-19\Homework-19\bin\Debug\net6.0\Homework-19.dll
+C:\classwork\Homework-19\Homework-19\bin\Debug\net6.0\Homework-19.pdb
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.csproj.AssemblyReference.cache
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.AssemblyInfoInputs.cache
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.AssemblyInfo.cs
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.csproj.CoreCompileInputs.cache
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.dll
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\refint\Homework-19.dll
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.pdb
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\Homework-19.genruntimeconfig.cache
+C:\classwork\Homework-19\Homework-19\obj\Debug\net6.0\ref\Homework-19.dll
